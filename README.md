@@ -32,6 +32,7 @@ This is a beginner-friendly HTML and CSS project that simulates a job applicatio
 
 ## 🚀 How to Run Locally
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/mishilamarowa/html-job-registration-form.git
+2.  Open `html mini project.html` in any browser.
 
 
