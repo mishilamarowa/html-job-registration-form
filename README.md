@@ -12,5 +12,26 @@ This is a beginner-friendly HTML and CSS project that simulates a job applicatio
 - Form validation using required fields
 
 ## 📁 Project Structure
+📁 Project Folder
+│
+├── html mini project.html # Main HTML file
+├── stylejob.css # Linked stylesheet
+
+
+## 🖥️ Live Demo
+
+🔗 [Click here to view the live site](https://mishilamarowa.github.io/html-job-registration-form/)
+
+
+## 📚 What I Learned
+
+- HTML form structure and input types
+- CSS flexbox/grid layout and styling
+- Responsive design basics
+- Deploying a static site using GitHub Pages
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
 
 
